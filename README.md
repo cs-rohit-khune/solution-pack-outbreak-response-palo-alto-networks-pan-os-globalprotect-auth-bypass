@@ -24,13 +24,8 @@ CVE-2026-0257 is a high-severity authentication bypass vulnerability affecting t
 
 The vulnerability impacts deployments that use GlobalProtect authentication override cookies in combination with specific certificate configurations. Threat actors can forge or manipulate authentication cookies to circumvent normal authentication requirements and gain network access. 
 
-## Announced: 
-
- 
 
 ## Latest Developments: 
-
-
 
 June 9, 2026: Ongoing exploitation activity continues targeting exposed GlobalProtect services.
 https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257
